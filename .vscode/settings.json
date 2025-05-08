@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "trail_car.h": "c",
+        "stdio.h": "c"
+    }
+}
